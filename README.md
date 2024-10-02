@@ -58,6 +58,21 @@ Sebelum menyambungkan ke server melalui SSH, periksa firewall untuk memastikanny
 
 Dalam kasus kami, kami telah menginstal UFW, jadi kami akan menggunakan perintah berikut:
 
+![Screenshot 2024-10-01 143643](https://github.com/user-attachments/assets/dc9df6ad-b4b1-4af5-9d87-ac7e172c6801)
+
+jika output menunjukkan bahwa lalu lintas SSH diizinkan, berarti konfigurasi sudah benar. Namun, jika belum, perintah berikut bisa digunakan untuk membuka akses SSH:
+
+![Screenshot 2024-10-01 143722](https://github.com/user-attachments/assets/fbd15aaf-02fb-4766-a22c-4306d9e8756a)
+
+Langkah 5: Koneksi ke server
+Setelah semua langkah sebelumnya selesai, kini bisa mencoba masuk ke server menggunakan SSH. Diperlukan alamat IP atau nama domain server serta username yang ada di server tersebut. Gunakan perintah ini untuk menghubungkan:
+
+
+![Screenshot 2024-10-01 145530](https://github.com/user-attachments/assets/0f5de1df-2821-46c2-a465-d6360c652751)
+
+
+
+
 
 
 
