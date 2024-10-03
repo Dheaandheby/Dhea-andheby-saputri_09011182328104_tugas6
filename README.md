@@ -39,9 +39,6 @@ Sekarang Anda perlu mengaktifkan layanan yang baru saja Anda instal menggunakan 
 
 ![Screenshot 2024-09-27 094745](https://github.com/user-attachments/assets/deae7304-bb79-4447-b2be-187b4b4cf2cb)
 
-Saat startup berhasil, akan melihat pesan sistem berikut.
-
-Tombol --now membantu untuk meluncurkan layanan dan secara bersamaan mengaturnya untuk dimulai saat sistem booting.
 
 Untuk memverifikasi bahwa layanan diaktifkan dan berhasil berjalan, ketik:
 
